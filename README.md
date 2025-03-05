@@ -21,6 +21,10 @@ This Streamlit application combines speech recognition, Retrieval Augmented Gene
     * Play the generated speech in the browser.
 * **User-Friendly Interface:**
     * Intuitive Streamlit interface for easy interaction.
+ 
+## Screenshot
+![speechRAG ss2](https://github.com/user-attachments/assets/9d3f29a8-2e1b-48cf-a86c-e60ea1d3eb77)
+
 
 ## Prerequisites
 
